@@ -4,7 +4,7 @@ export default function Home() {
   return(
     <>
         <header>
-            <h1>Bienvenido a Mi Sitio</h1>
+            <h1>Contacto</h1>
         </header>
 
         <section class="main-content">

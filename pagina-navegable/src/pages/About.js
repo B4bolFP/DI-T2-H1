@@ -10,7 +10,10 @@ export default function About() {
 
       <section class="main-content">
         <h2>Nuestra Historia</h2>
-        <p>Soy un particular apasionado en los productos de bañera. Mi misión es proporcionar productos y servicios que superen las expectativas de los clientes.</p>
+        <p>
+          Soy un particular apasionado en los productos de bañera. 
+          Mi misión es proporcionar productos y servicios que superen las expectativas de los clientes.
+        </p>
       </section>
 
       <h2>Equipo</h2>
